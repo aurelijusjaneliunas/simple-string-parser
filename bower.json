@@ -1,0 +1,21 @@
+{
+  "name": "simple-string-parser",
+  "version": "0.0.1",
+  "homepage": "https://github.com/aurelijusjaneliunas/simple-string-parser",
+  "authors": [
+    "Aurelijus Janeliunas <aurelijus.janeliuns@gmail.com>"
+  ],
+  "description": "Module for simple way to parse string",
+  "main": "parser.js",
+  "license": "The Unlicense",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "underscore": "~1.8.3"
+  }
+}

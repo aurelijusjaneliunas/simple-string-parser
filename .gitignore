@@ -1,0 +1,10 @@
+#Front end
+/node_modules/
+/bower_components/
+
+/test/
+/tests/
+
+#IntelJ idea settings
+/.idea/
+*.iml
