@@ -152,6 +152,6 @@ parser.parse(str);
 
 * `str` (String) - A plain text string to parse.
 
-#### Nonte
+#### Note
 
 Clone from https://github.com/tyler-johnson/simple-text-parser
